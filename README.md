@@ -1,6 +1,6 @@
 # Alurabooks Server
 
-O projeto Alurabooks Server tem como objetivo é criar uma API de livros com Node.js e Express. Foi desenvolvido no curso "Node.js: continue seu projeto full stack criando uma API com Express" da Alura. 
+O projeto Alurabooks Server tem como objetivo criar uma API de livros com Node.js e Express. Foi desenvolvido no curso "Node.js: continue seu projeto full stack criando uma API com Express" da Alura. 
 <p><strong>No projeto foram praticados os seguintes conceitos:</strong> 
 
 - Criar uma API Node.js usando Express
