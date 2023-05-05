@@ -1,11 +1,11 @@
 [
     {
         "id": "1",
-        "nome": "Livro Ciência da Computação"
+        "nome": "Ciência da Computação"
     },
     {
         "id": "2",
-        "nome": "Livro Lógica de Programação"
+        "nome": "Lógica de Programação"
     },
     {
         "id": "3",
@@ -26,10 +26,6 @@
     {
         "id": "8",
         "nome": "Guia básico de JavaScript"
-    },
-    {
-        "id": "9",
-        "nome": "Código Limpo"
     },
     {
         "id": "10",
