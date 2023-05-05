@@ -1,11 +1,11 @@
 [
     {
         "id": "1",
-        "nome": "Livro Ciência da Computação"
+        "nome": "Ciência da Computação"
     },
     {
         "id": "2",
-        "nome": "Livro Lógica de Programação"
+        "nome": "Lógica de Programação"
     },
     {
         "id": "3",
@@ -13,6 +13,30 @@
     },
     {
         "id": "4",
-        "nome": "Algoritmos"
+        "nome": "Entendendo algoritmos"
+    },
+    {
+        "id": "5",
+        "nome": "Cangaceiro Javascript"
+    },
+    {
+        "id": "7",
+        "nome": "Guia básico de C#"
+    },
+    {
+        "id": "8",
+        "nome": "Guia básico de JavaScript"
+    },
+    {
+        "id": "10",
+        "nome": "JavaScript para iniciantes"
+    },
+    {
+        "id": "11",
+        "nome": "Conhecendo o python"
+    },
+    {
+        "id": "12",
+        "nome": "Imersão Alura"
     }
 ]
